@@ -1,0 +1,11 @@
+{
+  "profile": {
+    "name": "BOT",
+    "age": "1",
+    "icon": "🐼"
+  },
+  "preferences": {
+    "graphics": "Low",
+    "fps": "120"
+  }
+}
